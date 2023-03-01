@@ -30,6 +30,8 @@
         ]
     },
     "globals": {
-      "Handlebars": false
+        "Handlebars": true,
+        "dataSource": true,
+        "utils": true
     }
 }
