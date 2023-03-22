@@ -89,3 +89,18 @@ section {
   margin: 48px 0 0 0;
   font-size: 18px;
 }
+
+/* Intro */
+
+.intro {
+  background-color: $color-white;
+}
+
+.intro p {
+  width: 70%;
+  margin: 0 auto;
+  padding: 48px 0;
+  font-size: 24px;
+  border-top: solid 1px $color-main;
+  border-bottom: solid 1px $color-main;
+}
